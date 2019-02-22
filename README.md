@@ -1,4 +1,4 @@
-# Demo
+# Tutorial for How to Use All Demos Included
 
 __Bouncy Balls__  
 A simple game where you just click on the screen. Balls will bounce around while the background colors incrementally change colors. If the balls reach nearly 0 vertical velocity, the bounce will reset. Balls will always be the complete opposite color of the background.
